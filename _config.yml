@@ -9,6 +9,6 @@ description: >
   <a href="mailto:brandenlamb@icloud.com">Send me an email</a>
 
 collections: 
-  - posts
+  - projects
   
 theme: jekyll-theme-minimal
