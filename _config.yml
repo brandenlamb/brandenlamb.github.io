@@ -5,8 +5,11 @@ author:
 description: 
   Coming soon. 
 url: brandenlamb.github.io 
-linkedin_username: brandenlamb
-github_username: brandenlamb
+links: 
+  - title: LinkedIn
+    link: https://www.linkedin.com/in/brandenlamb/
+  - title: GitHub
+    link: https://github.com/brandenlamb
 remote_theme: jekyll/minima
 minima: 
   skin: dark
