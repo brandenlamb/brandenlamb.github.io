@@ -3,7 +3,8 @@ author:
   email: brandenlamb@icloud.com
 
 header_pages: 
-  - /projects/index.html
+  - projects/index.html
+
 description: > 
   Coming soon. 
   <br><br>
@@ -15,5 +16,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title
+
+include: 
+  - _projects
+  - projects
   
 theme: jekyll-theme-minimal
