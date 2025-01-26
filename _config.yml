@@ -12,6 +12,9 @@ links:
 remote_theme: jekyll/minima
 minima: 
   skin: dark
-
-<a href="https://www.linkedin.com/in/brandenlamb/">LinkedIn</a> 
-<a href="https://github.com/brandenlamb">GitHub</a> 
+<ul> 
+  <li> 
+    <a href="{{https://www.linkedin.com/in/brandenlamb/}}">{{LinkedIn}}</a> 
+    <a href="{{https://github.com/brandenlamb}}">{{GitHub}}</a> 
+  </li> 
+</ul> 
